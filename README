@@ -1,0 +1,2 @@
+Trivial Go Server for adding, retrieving and deleting blobs of data from in
+memory over HTTP.
